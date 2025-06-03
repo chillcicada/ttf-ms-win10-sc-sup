@@ -9,7 +9,7 @@ DengXian, FangSong, KaiTi, SimHei
 font family:
 
 ```txt
-DengXian, KaiTi, SimHei, STFangsong
+DengXian, KaiTi, SimHei, Fangsong
 ```
 
 ## Usage
